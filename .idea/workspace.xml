@@ -5,10 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/App/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Post-add-form/post-add-form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Post-add-form/post-add-form.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Post-add-form/post-add-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Post-add-form/post-add-form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Post-list-item/post-list-item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Post-list-item/post-list-item.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +59,7 @@
       <workItem from="1623413442980" duration="3090000" />
       <workItem from="1623582868037" duration="4600000" />
       <workItem from="1623603410423" duration="550000" />
+      <workItem from="1623604618290" duration="1263000" />
     </task>
     <servers />
   </component>

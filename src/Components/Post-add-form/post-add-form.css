@@ -55,10 +55,14 @@
     transform: translateX(0px);
 }
 
-.app-list-item.important .app-list-item-label {
-    color: #FFD700;
+.app-list-item .btn-star {
+    color: #aeaeae;
 }
 
-.app-list-item.important .btn-star {
+.post-like-btn {
     color: #aeaeae;
+}
+
+.post-like-btn.post-like-btn--liked {
+    color: #FFD700;
 }
