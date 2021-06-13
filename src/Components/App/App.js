@@ -22,7 +22,7 @@ export class App extends Component {
         <Body>
           <AppHeader/>
           <SearchPanel/>
-          <PostListItem/>
+          {/*<PostListItem/>*/}
           <PostAddForm/>
         </Body>
     )
